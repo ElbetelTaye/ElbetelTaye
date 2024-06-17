@@ -8,7 +8,7 @@
 - 🌱 I served Jimma University for 5 years as a Lecturer in Biomedical Engineering.
 - 🌱 I'm aspiring PhD.
 
-- 👨‍💻 My projects are available on <a href="https://github.com/ElbetelTaye" target="_blank"> GitHub</a> 
+- 👨‍💻 Some of my projects are available on <a href="https://github.com/ElbetelTaye" target="_blank"> GitHub</a> 
 - 💬 Ask me about *Machine Learning, Deep Learning, Computer vision, Data Analysis*
 
 - 📫 You can reach me at **elbeteltaye70@gmail.com**
