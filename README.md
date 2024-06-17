@@ -11,7 +11,7 @@
 - 👨‍💻 My projects are available on <a href="https://github.com/ElbetelTaye" target="_blank"> GitHub</a> 
 - 💬 Ask me about *Machine Learning, Deep Learning, Computer vision, Data Analysis*
 
-- 📫 You can reach me **elbeteltaye70@gmail.com**
+- 📫 You can reach me at **elbeteltaye70@gmail.com**
 
 - 📄 Know about my experiences <a href="http://in.linkedin.com/in/elbetel-taye-49a1a91b3" target="_blank">LinkedIN</a>
 
@@ -25,11 +25,13 @@
 <a href="https://orcid.org/0000-0001-7035-6422" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="Elbetel" height="30" width="40" />
 </a>
+<a href="https://www.kaggle.com/ElbetelTaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Elbetel" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
- <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  </p>
+ <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/python-icon.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElbetelTaye&show_icons=true&locale=en&layout=compact" alt="Elbetel" /></p>
 
