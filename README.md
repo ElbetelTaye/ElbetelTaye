@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fitsum Mesfin</h1>
-<h3 align="center">Data Scientist and ML Engineer </h3>
+<h1 align="center">Hi 👋, I'm Elbetel Taye</h1>
+<h3 align="center"> ML Engineer </h3>
 
 <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="300" >
 
