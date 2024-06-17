@@ -18,8 +18,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://in.linkedin.com/in/elbetel-taye-49a1a91b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Elbetel" height="30" width="40" /></a>
-<a href="https://orcid.org/0000-0001-7035-6422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/orcid.svg" alt="Elbetel" height="30" width="40" /></a>
+html
+
+<a href="http://in.linkedin.com/in/elbetel-taye-49a1a91b3" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Elbetel" height="30" width="40" />
+</a>
+<a href="https://orcid.org/0000-0001-7035-6422" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/orcid.svg" alt="Elbetel" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
