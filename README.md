@@ -3,9 +3,9 @@
 
 <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="300" >
 
-- 🌱 I have pursued a Bachelor's and Master's Degree in Biomedical Engineering / Medical Imaging.
+- 🌱 I have pursued a Bachelor's and Master's in Biomedical Engineering / Medical Imaging.
+- 🌱 I served Jimma University for 5 years as a Lecturer and Researcher in Biomedical Engineering.
 - 🌱 I'm working as a Machine Learning Engineer at Ethiopian Artificial Intelligence Institute.
-- 🌱 I served Jimma University for 5 years as a Lecturer in Biomedical Engineering.
 - 🌱 I'm aspiring PhD.
 
 - 👨‍💻 Some of my projects are available on <a href="https://github.com/ElbetelTaye" target="_blank"> GitHub</a> 
