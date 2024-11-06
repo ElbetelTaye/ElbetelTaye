@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elbetel Taye</h1>
 <h3 align="center"> ML Engineer </h3>
 
-<img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="300" >
-
 - 🌱 I have pursued a Bachelor's and Master's in Biomedical Engineering / Medical Imaging.
 - 🌱 I served Jimma University for 5 years as a Lecturer and Researcher in Biomedical Engineering.
 - 🌱 I'm working as a Machine Learning Engineer at Ethiopian Artificial Intelligence Institute.
