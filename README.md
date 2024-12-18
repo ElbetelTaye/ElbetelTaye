@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Elbetel Taye</h1>
 <h3 align="center"> ML Enthusiast  </h3>
 
-- 🌱 I am a graduate at Kifiya 10 academy training program.
+- 🌱 I am a graduate of the Kifiya 10 academy training program.
 - 🌱 I have pursued a Bachelor's and Master's in Biomedical Engineering / Medical Imaging.
+- 🌱 I'm a Machine Learning Engineer at Ethiopian Artificial Intelligence Institute.
 - 🌱 I served Jimma University for 5 years as a Lecturer and Researcher in Biomedical Engineering.
-- 🌱 I'm working as a Machine Learning Engineer at Ethiopian Artificial Intelligence Institute.
 
 
 - 👨‍💻 Some of my projects are available on <a href="https://github.com/ElbetelTaye" target="_blank"> GitHub</a> 
